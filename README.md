@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET /CORE
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me (aljabri1234@hotmail.com)
 
 <!---
 omranali2111/omranali2111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
