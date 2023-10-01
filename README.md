@@ -7,7 +7,7 @@
 
 ## Connect with Me
 - 📧 Email: aljabri1234@hotmail.com
-- 🌐 LinkedIn: [Omran Ali Aljabri](https://www.linkedin.com/in/omran-ali-aljabri/)
+- 🌐 LinkedIn: [Omran Ali Aljabri](www.linkedin.com/in/omran-aljabri)
 
 ## GitHub Stats
 [![Omran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omranali2111&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/omranali2111)
