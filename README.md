@@ -1,7 +1,7 @@
 # Hi there, I'm Omran Ali Aljabri! 👋
 
 ## About Me
-- 🔭 I'm currently learning and working with C# and .NET Core.
+- 🔭 I'm currently learning and working with java
 - 🌱 I have a keen interest in software development and technology.
 - 💡 Always looking forward to learning new things and exploring new technologies.
 
@@ -20,8 +20,8 @@
 
 
 ## Tech Stack
-- Languages: C#,C++
-- Frameworks: .NET Core,.NET, ASP.NET,EFCore,ADO.NET
+- Languages: C#,java
+- Frameworks: .NET,.NET Core, ASP.NET,EFCore,ADO.NET,SpringBoot
 - Databases: SQL Server
 - Version Control: Git
 
