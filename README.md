@@ -22,6 +22,6 @@
 ## Tech Stack
 - Languages: C#,java
 - Frameworks: .NET,.NET Core, ASP.NET,EFCore,ADO.NET,SpringBoot
-- Databases: SQL Server
+- Databases: SQL Server,MYSQL
 - Version Control: Git
 
